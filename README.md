@@ -12,8 +12,7 @@ INT2202-5 Project
 -Ý tưởng: Dựa trên trò chơi học Tiếng Anh cùng tên.
 -Đồ họa: Sử dụng Microsoft Paint và thư viện đồ họa SDL2.
 -Âm thanh: +Hiệu ứng: https://www.freesoundeffects.com
-	   +Nhạc nền: Sentinel Prime (Steve Jablonsky - Transformers: Dark Of The Moon - http://mp3.zing.vn)
-		      Track 06 (Ian Livingstone - Heavy Weapon - https://downloads.khinsider.com)
+	   +Nhạc nền:  Track 06 (Ian Livingstone - Heavy Weapon - https://downloads.khinsider.com)
 -Tham khảo: + lazyfoo.net (Cụ thể: http://lazyfoo.net/tutorials/SDL/index.php)
 	    + Kênh Youtube SDL Made Easy 
 	     (https://www.youtube.com/watch?v=DgpcRIK2uug&list=PLHJE4y54mpC5_eEz9gCqIkNpU-n_2eyNt)
