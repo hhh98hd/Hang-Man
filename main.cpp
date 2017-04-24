@@ -21,7 +21,7 @@ const string WINDOW_TITLE = "HANG MAN";
 
 int main(int argc, char* argv[])
 {
-	SDL_Window* window=nullptr;
+    SDL_Window* window=nullptr;
     SDL_Renderer* renderer=nullptr;
     initSDL(window, renderer);
     
